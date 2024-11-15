@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VS_Code/ML_FLOW/mlruns/0/f3976b30eab14ca4952d2c4363b7ad82/artifacts
+end_time: 1731701305481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3976b30eab14ca4952d2c4363b7ad82
+run_name: unequaled-moose-970
+run_uuid: f3976b30eab14ca4952d2c4363b7ad82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701302898
+status: 3
+tags: []
+user_id: '91821'

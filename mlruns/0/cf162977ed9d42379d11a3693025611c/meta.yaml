@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VS_Code/ML_FLOW/mlruns/0/cf162977ed9d42379d11a3693025611c/artifacts
+end_time: 1731701081805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf162977ed9d42379d11a3693025611c
+run_name: illustrious-crane-17
+run_uuid: cf162977ed9d42379d11a3693025611c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701077854
+status: 3
+tags: []
+user_id: '91821'

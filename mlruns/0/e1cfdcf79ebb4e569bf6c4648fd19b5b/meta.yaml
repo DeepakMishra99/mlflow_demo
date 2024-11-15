@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VS_Code/ML_FLOW/mlruns/0/e1cfdcf79ebb4e569bf6c4648fd19b5b/artifacts
+end_time: 1731701318920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1cfdcf79ebb4e569bf6c4648fd19b5b
+run_name: bedecked-bat-356
+run_uuid: e1cfdcf79ebb4e569bf6c4648fd19b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701316291
+status: 3
+tags: []
+user_id: '91821'
